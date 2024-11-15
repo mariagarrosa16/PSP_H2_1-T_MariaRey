@@ -1,0 +1,32 @@
+# Programación de Servicios y Procesos (PSP) - Resumen
+Asignatura: Programación de Servicios y Procesos (PSP)
+Curso: 2024
+
+## Contenidos
+1. Introducción a Servicios y Procesos:
+   - Conceptos básicos sobre la programación en sistemas de servicios y procesos.
+   - Tipos de planificación de procesos: a corto, mediano, y largo plazo.
+
+2. Modelos Cliente-Servidor:
+   - Estructura y funcionamiento del modelo cliente-servidor.
+   - Ejemplo: una aplicación distribuida que permite la comunicación entre un cliente y un servidor para el intercambio de datos.
+
+3. Procesos y Concurrencia:
+   - Ejecución simultánea de procesos y manejo de múltiples clientes.
+   - Uso de hilos (threads) en Java para soportar la multitarea.
+
+4. Manejo de Excepciones y Errores:
+   - Técnicas para gestionar errores y excepciones en aplicaciones distribuidas.
+   - Ejemplo de captura de excepciones comunes en comunicación de red.
+
+## Recursos Recomendados
+- Libro de referencia: "Programación Distribuida con Java" de maria.
+- Documentación Java para la programación de sockets y concurrencia.
+
+## Ejemplos de Código
+- Solicitud de cliente: Enviar clave de búsqueda.
+- Respuesta del servidor: Leer el archivo o base de datos y devolver los resultados al cliente.
+
+## Contacto
+Profesor: maria
+Email: maria@gmail.es
